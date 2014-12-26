@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Dieses ist ein kleines Minispiel
  * 
- * @author Felix Rostock 4571238 Gruppe 5a
+ * @author Felix R
  *
  */
 public class Game {
